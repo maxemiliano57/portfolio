@@ -92,15 +92,15 @@ k-bites/
 ## 🔍 Retrospective
 
 ### What went well
-- The feature I'm most proud of is the random dish generator — every click surfaces a completely different dish with no repeats. It's one of those small details that makes the app feel polished and fun to use.
-- The visual design came together cleanly — the interface feels modern and food-forward
-- Implementing the favorites system with localStorage was a satisfying challenge
-- Keeping the data structure clean made adding new dishes straightforward
+- The feature I'm most proud of is the random dish generator because every click comes up with a completely different dish with no repeats. It's one of those small details that makes the app feel polished and fun to use.
+- The visual design came together perfectly because the interface feels modern and food-forward.
+- Another part of the project that went well was implementing the favorites system with localStorage which proved to be quite the challenge.
+- The data structure was kept clean which made adding new dishes very straightforward and intuitive to do.
 
 ### What I'd do differently
-- **Push the UI further** — The current styling is clean and neutral, but for a food app that's a missed opportunity. Food is visual — I'd want people to open K-Bites and immediately feel hungry. That means bolder imagery, richer colors, and a design that makes you want to come back.
-- **Expand the Ingredient Glossary** — The glossary is one of my favorite features but it's still pretty thin. I'd add more vocabulary entries and make it feel like a real reference you'd actually use while cooking.
-- **Grow the dish library** — The Browse tab needs more content. The more dishes, the more useful and replayable the app becomes — especially with the random dish generator.
+- **Push the UI further** — The current styling is clean and neutral, but for a food app that's a missed opportunity. I want people to open K-Bites and immediately feel hungry. This basically means bolder imagery, richer colors, and a design that makes you want to come back.
+- **Expand the Ingredient Glossary** — The glossary is one of my favorite features but it's still pretty vague. I'd add more vocabulary entries and make it feel like a real reference you'd actually use while cooking.
+- **Grow the dish library** — The Browse tab needs more content. The more dishes, the more useful and replayable the app becomes especially with the random dish generator.
 
 ---
 

@@ -14,7 +14,7 @@ K-Bites is a Korean food exploration app that helps foodies discover iconic dish
 ![Dish Browser](./screenshots/browse.png)
 
 **Dish Detail**
-![Dish Detail](./screenshots/detail.png)
+![Dish Detail](./screenshots/dish_detail.png)
 
 **Favorites**
 ![Favorites](./screenshots/favorites.png)
